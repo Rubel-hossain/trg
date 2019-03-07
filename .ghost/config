@@ -1,0 +1,25 @@
+{
+  "instances": {
+    "ghost-local": {
+      "cwd": "E:\\ghost\\mytube"
+    },
+    "ghost-local-1": {
+      "cwd": "D:\\ghost\\arnica"
+    },
+    "ghost-local-2": {
+      "cwd": "E:\\ghost\\darkbiz"
+    },
+    "ghost-local-3": {
+      "cwd": "D:\\ghost\\darkbiz"
+    },
+    "ghost-local-4": {
+      "cwd": "D:\\ghost\\appix"
+    },
+    "ghost-local-5": {
+      "cwd": "D:\\ghost\\appix_update"
+    },
+    "ghost-local-6": {
+      "cwd": "D:\\ghost\\ghostx"
+    }
+  }
+}
